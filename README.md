@@ -9,6 +9,12 @@ http://jenkins-ci.org/
 <img src="http://jenkins-ci.org/sites/default/files/jenkins_logo.png"/>
 
 
+# Running on Stackato
+
+```
+stackato push -n
+```
+
 # Usage
 
 ```

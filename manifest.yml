@@ -1,0 +1,4 @@
+applications:
+- name: jenkins-docker
+  docker_image: stackatoapps/jenkins:latest
+  mem: 1024M
