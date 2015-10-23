@@ -9,7 +9,7 @@ http://jenkins-ci.org/
 <img src="http://jenkins-ci.org/sites/default/files/jenkins_logo.png"/>
 
 
-# Running on Stackato
+# Running on HPE Helion Stackato
 
 ```
 stackato push -n
